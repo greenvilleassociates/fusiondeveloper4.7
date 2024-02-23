@@ -1,0 +1,5 @@
+We are keeping copies of root backups for users who will immediately delete them as they are important in that they:
+1) SET SSL MODE
+2) COLLECT LOCATION
+3) SET SSO PARAMETERS FOR PLL
+4) IMPLEMENT A PLL READY SITE
